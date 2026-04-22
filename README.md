@@ -14,3 +14,6 @@ If the file is missing: File not found
 De'Shaunte London
 
 Added if file is not found output example Edit by Ryan Thomas
+
+## Collaboration Acknowledgment
+This project was reviewed and edited by [Ryan Thomas] on GitHub.
