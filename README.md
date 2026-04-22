@@ -9,5 +9,8 @@ View the letter grade output.
 Student: Mike  
 Average: 83.75 
 Grade: B
+If the file is missing: File not found
 ## Author
 De'Shaunte London
+
+Added if file is not found output example Edit by Ryan Thomas
